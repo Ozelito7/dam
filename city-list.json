@@ -1,0 +1,23 @@
+{"ciudades":[
+
+  { "nombre" : "Meco",
+    "latitud" : 40.55,
+    "longitud" : -3.32,
+    "codigo_pais" : "ES"},
+
+  { "nombre" : "Alcala de Henares",
+    "latitud" : 40.48,
+    "longitud" : -3.36,
+    "codigo_pais" : "ES"},
+
+  { "nombre" : "Torrejón de Ardoz",
+    "latitud" : 40.45,
+    "longitud" : -3.47,
+    "codigo_pais" : "ES"},
+
+  { "nombre" : "San Fernando de Henares",
+    "latitud" : 40.42,
+    "longitud" : -3.53,
+    "codigo_pais" : "ES"}
+
+]}
